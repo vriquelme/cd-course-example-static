@@ -5,11 +5,8 @@ const Intro = () => (
   <div>
     <h1>What are we going to do?</h1>
     <p>
-      Assuming you already forked
-      <a href="https://github.com/continuum/cd-course-example-static">
-        our repo
-      </a>
-      into your own Github repo, here is what we are doing next:
+      Assuming you already forked <a href="https://github.com/continuum/cd-course-example-static">
+      our repo</a> into your own Github repo, here is what we are doing next:
     </p>
     <ol>
       <li>Create a free tier AWS account</li>
