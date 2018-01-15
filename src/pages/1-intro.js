@@ -20,7 +20,6 @@ const Intro = () => (
         S3 bucket
       </li>
       <li>Make changes to the website to see if we got it right</li>
-      <li>Break the website and see if we got that part right too</li>
     </ol>
     <p>
       By following these steps you will have a full CD pipeline working.
