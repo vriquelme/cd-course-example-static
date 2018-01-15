@@ -6,11 +6,14 @@ refer to the [Gatsby documentation - Building with Components](https://www.gatsb
 
 # Development setup
 
-You need to install gatsby to work with this site. To do so run:
+Make sure you have a working Node.js environment first. Then you need to install
+gatsby to work with this site. To do so run:
 
     $ npm install --global gatsby-cli
 
-(If you don't have a nodejs environment you will need that first)
+Then also install all the project dependencies with:
+
+    $ npm install
 
 After installing gatsby you can run it live on your development machine with:
 
