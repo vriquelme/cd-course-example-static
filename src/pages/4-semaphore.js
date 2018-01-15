@@ -11,7 +11,8 @@ const S3Bucket = () => (
     </p>
     <p>
       That was easy, wasn't it? We didn't really need to add here but the
-      page would look a bit empty otherwise ;)
+      page would look a bit empty otherwise. It also serves to take a breath
+      before the final part, which won't be sooo easy ;)
     </p>
     <Link to="/5-delivery">Finally, let's put it all together</Link>
   </div>
